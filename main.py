@@ -7,7 +7,7 @@ trailing newline) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 import os
 
-REVIEW = "Breathing: automatic for decades, until one stray thought turned it into a manual job I cannot quit."
+REVIEW = "Breathing: automatic for decades, until one stray thought turned it into manual labor with no way to clock out."
 
 
 def main() -> None:
